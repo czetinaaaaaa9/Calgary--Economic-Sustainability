@@ -19,7 +19,7 @@ Email: c.zetina9@gmail.com
 
 # SHARING/ACCESS INFORMATION
 
-* Licenses/restrictions placed on the data: <a href="https://example.com">Calgary Economic Sustainability Repository</a> © 20025 by <a href="https://example.com">Carlos Zetina</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+* Licenses/restrictions placed on the data: <a href="https://example.com">Calgary Economic Sustainability Repository</a> © 2025 by <a href="https://example.com">Carlos Zetina</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 *  Data derived from:
 	* Current Year Property Assessments (Parcel) [csv] - Open Calgary - https://data.calgary.ca/Government/Current-Year-Property-Assessments-Parcel-/4bsw-nn7w/about_data
 	* Community Boundaries - Open Calgary [shapefile] - https://data.calgary.ca/Base-Maps/Community-Boundaries/ab7m-fwn6
